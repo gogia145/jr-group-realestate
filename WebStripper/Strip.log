@@ -1,0 +1,733 @@
+10:56:26 AM: *******************************************5/26/2015 10:56:26 AM
+10:56:26 AM: Version: 3.21
+10:56:26 AM: Name=Sbpgroup
+10:56:26 AM: URL=www.sbpgroup.in
+10:56:26 AM: Folder=c:\users\administrator\documents\webstripper\sbpgroup\
+10:56:26 AM: 
+10:56:26 AM: Action=Strip
+10:56:26 AM: FileTypes=
+10:56:26 AM: Text, 
+10:56:26 AM: Graphics, 
+10:56:26 AM: Multimedia, 
+10:56:26 AM: Others, 
+10:56:26 AM: 
+10:56:26 AM: MaxFileSize=-100
+10:56:26 AM: PrimaryOnlySubs=True
+10:56:26 AM: PrimaryDepth=-1
+10:56:26 AM: SertverDepth=-1
+10:56:26 AM: OtherDepth=-1
+10:56:26 AM: RootFile=
+10:56:26 AM: InitialiseData
+10:56:26 AM: InitialseFileList
+10:56:26 AM: Strip
+10:56:26 AM: Initialise message: Downloading
+10:56:26 AM: Downloading: 0 http://www.sbpgroup.in/
+10:56:26 AM: Count: 2  ToDo: 2
+10:56:26 AM: Downloading: 1 ://www.sbpgroup.in/favicon.ico
+10:56:26 AM: Count: 2  ToDo: 2
+10:56:28 AM: Done: 0 http://www.sbpgroup.in/ Success
+10:56:28 AM: Count: 3
+10:56:28 AM: HTML: 1
+10:56:28 AM: Downloading: 2 http://www.sbpgroup.in/home-loans.html
+10:56:28 AM: Count: 3  ToDo: 2
+10:56:28 AM: Downloading: 3 http://www.sbpgroup.in/rtgs-information.html
+10:56:28 AM: Count: 4  ToDo: 3
+10:56:28 AM: Downloading: 4 http://www.sbpgroup.in/nri-section.html
+10:56:28 AM: Count: 5  ToDo: 4
+10:56:28 AM: Downloading: 5 http://www.sbpgroup.in/real-estate-faqs.html
+10:56:28 AM: Count: 48  ToDo: 47
+10:56:28 AM: Done: 1 ://www.sbpgroup.in/favicon.ico Failed
+10:56:28 AM: : Fail ://www.sbpgroup.in/favicon.ico
+10:56:28 AM: 404: Not Found
+10:56:28 AM: LastError: 0 No Error
+10:56:28 AM: Count: 48
+10:56:28 AM: HTML: 2
+10:56:28 AM: Downloading: 7 http://www.sbpgroup.in/virtual-tour.html
+10:56:28 AM: Count: 48  ToDo: 46
+10:56:29 AM: Done: 4 http://www.sbpgroup.in/nri-section.html Success
+10:56:29 AM: Done: 3 http://www.sbpgroup.in/rtgs-information.html Success
+10:56:29 AM: Downloading: 9 http://www.sbpgroup.in/company-profile.html
+10:56:29 AM: Count: 48  ToDo: 44
+10:56:29 AM: Downloading: 10 http://www.sbpgroup.in/mission-and-vision.html
+10:56:29 AM: Count: 48  ToDo: 44
+10:56:29 AM: Done: 7 http://www.sbpgroup.in/virtual-tour.html Success
+10:56:29 AM: Downloading: 11 http://www.sbpgroup.in/chairman-message.html
+10:56:29 AM: Count: 48  ToDo: 43
+10:56:29 AM: Done: 2 http://www.sbpgroup.in/home-loans.html Success
+10:56:29 AM: Done: 5 http://www.sbpgroup.in/real-estate-faqs.html Success
+10:56:29 AM: Count: 48
+10:56:29 AM: HTML: 3
+10:56:29 AM: Count: 48
+10:56:29 AM: HTML: 4
+10:56:29 AM: Count: 48
+10:56:29 AM: HTML: 5
+10:56:29 AM: Count: 48
+10:56:29 AM: HTML: 6
+10:56:29 AM: Downloading: 12 http://www.sbpgroup.in/why-choose-us.html
+10:56:29 AM: Count: 48  ToDo: 41
+10:56:29 AM: Downloading: 13 http://www.sbpgroup.in/events-at-sbp.html
+10:56:29 AM: Count: 48  ToDo: 41
+10:56:30 AM: Done: 10 http://www.sbpgroup.in/mission-and-vision.html Success
+10:56:30 AM: Downloading: 14 http://www.sbpgroup.in/press-releases.html
+10:56:30 AM: Count: 48  ToDo: 40
+10:56:30 AM: Done: 9 http://www.sbpgroup.in/company-profile.html Success
+10:56:30 AM: Downloading: 15 http://www.sbpgroup.in/news-updates.html
+10:56:30 AM: Count: 48  ToDo: 39
+10:56:30 AM: Done: 11 http://www.sbpgroup.in/chairman-message.html Success
+10:56:30 AM: Downloading: 16 http://www.sbpgroup.in/newsletter.html
+10:56:30 AM: Count: 48  ToDo: 38
+10:56:30 AM: Done: 12 http://www.sbpgroup.in/why-choose-us.html Success
+10:56:30 AM: Downloading: 17 http://www.sbpgroup.in/meet-us.html
+10:56:30 AM: Count: 48  ToDo: 37
+10:56:30 AM: Done: 13 http://www.sbpgroup.in/events-at-sbp.html Success
+10:56:30 AM: Downloading: 18 http://www.sbpgroup.in/careers.html
+10:56:30 AM: Count: 48  ToDo: 36
+10:56:31 AM: Done: 14 http://www.sbpgroup.in/press-releases.html Success
+10:56:31 AM: Downloading: 19 http://www.sbpgroup.in/sales-query-form.html
+10:56:31 AM: Count: 48  ToDo: 35
+10:56:31 AM: Done: 15 http://www.sbpgroup.in/news-updates.html Success
+10:56:31 AM: Downloading: 20 http://www.sbpgroup.in/sbp-noor-villa-1.html
+10:56:31 AM: Count: 48  ToDo: 34
+10:56:31 AM: Done: 16 http://www.sbpgroup.in/newsletter.html Success
+10:56:31 AM: Downloading: 21 http://www.sbpgroup.in/sbp-noor-villa-2.html
+10:56:31 AM: Count: 48  ToDo: 33
+10:56:31 AM: Done: 17 http://www.sbpgroup.in/meet-us.html Success
+10:56:31 AM: Downloading: 22 http://www.sbpgroup.in/sbp-noor-city.html
+10:56:31 AM: Count: 48  ToDo: 32
+10:56:31 AM: Done: 18 http://www.sbpgroup.in/careers.html Success
+10:56:31 AM: Downloading: 23 http://www.sbpgroup.in/sbp-homes-1.html
+10:56:31 AM: Count: 48  ToDo: 31
+10:56:32 AM: Done: 19 http://www.sbpgroup.in/sales-query-form.html Success
+10:56:32 AM: Downloading: 24 http://www.sbpgroup.in/sbp-homes-2.html
+10:56:32 AM: Count: 48  ToDo: 30
+10:56:32 AM: Done: 20 http://www.sbpgroup.in/sbp-noor-villa-1.html Success
+10:56:32 AM: Downloading: 25 http://www.sbpgroup.in/sbp-south-city.html
+10:56:32 AM: Count: 48  ToDo: 29
+10:56:32 AM: Done: 21 http://www.sbpgroup.in/sbp-noor-villa-2.html Success
+10:56:32 AM: Downloading: 26 http://www.sbpgroup.in/sbp-north-valley.html
+10:56:32 AM: Count: 48  ToDo: 28
+10:56:32 AM: Done: 22 http://www.sbpgroup.in/sbp-noor-city.html Success
+10:56:32 AM: Downloading: 27 http://www.sbpgroup.in/sbp-homes-3.html
+10:56:32 AM: Count: 48  ToDo: 27
+10:56:32 AM: Done: 23 http://www.sbpgroup.in/sbp-homes-1.html Success
+10:56:32 AM: Downloading: 28 http://www.sbpgroup.in/sbp-housing-park.html
+10:56:32 AM: Count: 48  ToDo: 26
+10:56:32 AM: Done: 24 http://www.sbpgroup.in/sbp-homes-2.html Success
+10:56:32 AM: Downloading: 29 http://www.sbpgroup.in/world-1-lifestyle.html
+10:56:32 AM: Count: 48  ToDo: 25
+10:56:33 AM: Done: 25 http://www.sbpgroup.in/sbp-south-city.html Success
+10:56:33 AM: Downloading: 30 http://www.sbpgroup.in/park-land.html
+10:56:33 AM: Count: 48  ToDo: 24
+10:56:33 AM: Done: 26 http://www.sbpgroup.in/sbp-north-valley.html Success
+10:56:33 AM: Downloading: 31 http://www.sbpgroup.in/nano-housing.html
+10:56:33 AM: Count: 48  ToDo: 23
+10:56:33 AM: Done: 27 http://www.sbpgroup.in/sbp-homes-3.html Success
+10:56:33 AM: Downloading: 32 http://www.sbpgroup.in/chandigarh-logistic-park.html
+10:56:33 AM: Count: 48  ToDo: 22
+10:56:33 AM: Done: 28 http://www.sbpgroup.in/sbp-housing-park.html Success
+10:56:33 AM: Downloading: 33 http://www.sbpgroup.in/the-north-wild-resort.html
+10:56:33 AM: Count: 48  ToDo: 21
+10:56:34 AM: Done: 29 http://www.sbpgroup.in/world-1-lifestyle.html Success
+10:56:34 AM: Downloading: 34 http://cityheart.co.in/
+10:56:34 AM: Count: 48  ToDo: 20
+10:56:34 AM: Done: 30 http://www.sbpgroup.in/park-land.html Success
+10:56:34 AM: Downloading: 39 http://www.sbpgroup.in/index.html
+10:56:34 AM: Count: 48  ToDo: 19
+10:56:34 AM: Done: 31 http://www.sbpgroup.in/nano-housing.html Success
+10:56:34 AM: Downloading: 40 http://amsinformatics.com/
+10:56:34 AM: Count: 48  ToDo: 18
+10:56:34 AM: Done: 32 http://www.sbpgroup.in/chandigarh-logistic-park.html Success
+10:56:34 AM: Downloading: 43 http://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+10:56:34 AM: Count: 48  ToDo: 17
+10:56:34 AM: Done: 33 http://www.sbpgroup.in/the-north-wild-resort.html Success
+10:56:34 AM: Downloading: 6 http://www.sbpgroup.in/images/sbp-brochure.jpg
+10:56:34 AM: Count: 48  ToDo: 16
+10:56:35 AM: Done: 43 http://fonts.googleapis.com/css?family=Open+Sans:400,600,700 Success
+10:56:35 AM: Downloading: 8 http://www.sbpgroup.in/subscribe.php
+10:56:35 AM: Count: 48  ToDo: 15
+10:56:35 AM: Done: 39 http://www.sbpgroup.in/index.html Success
+10:56:35 AM: Downloading: 35 http://www.facebook.com/sbpgroup
+10:56:35 AM: Count: 48  ToDo: 14
+10:56:35 AM: Done: 6 http://www.sbpgroup.in/images/sbp-brochure.jpg Success
+10:56:35 AM: Count: 48
+10:56:35 AM: HTML: 7
+10:56:35 AM: Count: 48
+10:56:35 AM: HTML: 8
+10:56:35 AM: Downloading: 36 http://twitter.com/sbp_group
+10:56:35 AM: Count: 48  ToDo: 13
+10:56:36 AM: Done: 34 http://cityheart.co.in/ Success
+10:56:36 AM: Done: 8 http://www.sbpgroup.in/subscribe.php Success
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 9
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 10
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 11
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 12
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 13
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 14
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 15
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 16
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 17
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 18
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 19
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 20
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 21
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 22
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 23
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 24
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 25
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 26
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 27
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 28
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 29
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 30
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 31
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 32
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 33
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 34
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 35
+10:56:36 AM: Downloading: 37 http://plus.google.com/+SbpgroupIn
+10:56:36 AM: Count: 48  ToDo: 11
+10:56:36 AM: Downloading: 38 http://www.youtube.com/user/sbpgroupin
+10:56:36 AM: Count: 48  ToDo: 11
+10:56:36 AM: Done: 35 http://www.facebook.com/sbpgroup Failed
+10:56:36 AM: : Fail http://www.facebook.com/sbpgroup
+10:56:36 AM: 501: Protocol "https" not implemented
+10:56:36 AM: LastError: 0 No Error
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 36
+10:56:36 AM: Downloading: 41 http://www.sbpgroup.in/js/script.js
+10:56:36 AM: Count: 48  ToDo: 10
+10:56:36 AM: Done: 36 http://twitter.com/sbp_group Failed
+10:56:36 AM: : Fail http://twitter.com/sbp_group
+10:56:36 AM: 501: Protocol "https" not implemented
+10:56:36 AM: LastError: 0 No Error
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 37
+10:56:36 AM: Downloading: 42 http://www.sbpgroup.in/css/style.css
+10:56:36 AM: Count: 48  ToDo: 9
+10:56:36 AM: Done: 40 http://amsinformatics.com/ Success
+10:56:36 AM: Downloading: 44 http://www.sbpgroup.in/css/ddsmoothmenu.css
+10:56:36 AM: Count: 48  ToDo: 8
+10:56:36 AM: Done: 38 http://www.youtube.com/user/sbpgroupin Failed
+10:56:36 AM: : Fail http://www.youtube.com/user/sbpgroupin
+10:56:36 AM: 501: Protocol "https" not implemented
+10:56:36 AM: LastError: 0 No Error
+10:56:36 AM: Downloading: 45 http://www.sbpgroup.in/js/jquery.min.js
+10:56:36 AM: Count: 48  ToDo: 7
+10:56:36 AM: Done: 37 http://plus.google.com/+SbpgroupIn Failed
+10:56:36 AM: : Fail http://plus.google.com/+SbpgroupIn
+10:56:36 AM: 501: Protocol "https" not implemented
+10:56:36 AM: LastError: 0 No Error
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 38
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 39
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 40
+10:56:36 AM: Count: 48
+10:56:36 AM: HTML: 41
+10:56:36 AM: Downloading: 46 http://www.sbpgroup.in/js/ddsmoothmenu.js
+10:56:36 AM: Count: 48  ToDo: 6
+10:56:37 AM: Done: 41 http://www.sbpgroup.in/js/script.js Success
+10:56:37 AM: Count: 48
+10:56:37 AM: HTML: 42
+10:56:37 AM: Downloading: 47 http://www.sbpgroup.in/js/camera.min.js
+10:56:37 AM: Count: 48  ToDo: 5
+10:56:37 AM: Done: 44 http://www.sbpgroup.in/css/ddsmoothmenu.css Success
+10:56:37 AM: Downloading: 48 http://www.sbpgroup.in/images/drop-arrow.png
+10:56:37 AM: Count: 52  ToDo: 8
+10:56:37 AM: Done: 46 http://www.sbpgroup.in/js/ddsmoothmenu.js Success
+10:56:37 AM: Downloading: 49 http://www.sbpgroup.in/images/drop-arrow-hover.png
+10:56:37 AM: Count: 52  ToDo: 7
+10:56:37 AM: Done: 42 http://www.sbpgroup.in/css/style.css Success
+10:56:37 AM: Count: 65
+10:56:37 AM: HTML: 43
+10:56:37 AM: Count: 65
+10:56:37 AM: HTML: 44
+10:56:37 AM: Count: 65
+10:56:37 AM: HTML: 45
+10:56:37 AM: Downloading: 50 http://www.sbpgroup.in/images/drop-arrow-1.png
+10:56:37 AM: Count: 65  ToDo: 19
+10:56:37 AM: Done: 48 http://www.sbpgroup.in/images/drop-arrow.png Success
+10:56:37 AM: Downloading: 51 http://www.sbpgroup.in/images/drop-arrow-1-hover.png
+10:56:37 AM: Count: 65  ToDo: 18
+10:56:38 AM: Done: 45 http://www.sbpgroup.in/js/jquery.min.js Success
+10:56:38 AM: Count: 107
+10:56:38 AM: HTML: 46
+10:56:38 AM: Count: 107
+10:56:38 AM: HTML: 47
+10:56:38 AM: Downloading: 65 http://www.sbpgroup.in/js/]*)((?:/([^/)]+/)|[^/2/(/)]*)+)/2/))?/},attrMap:{
+10:56:38 AM: Count: 107  ToDo: 59
+10:56:38 AM: Done: 49 http://www.sbpgroup.in/images/drop-arrow-hover.png Success
+10:56:38 AM: Downloading: 66 http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}},
+10:56:38 AM: Count: 107  ToDo: 58
+10:56:38 AM: Done: 66 http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}}, CreateError
+10:56:38 AM: : Create Error (No Error): http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}},
+10:56:38 AM: LastError: 0
+10:56:38 AM: Downloading: 67 http://www.sbpgroup.in/js/:function(W,U,Y){var%20V=L++,T=S;if(!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T(
+10:56:38 AM: Count: 107  ToDo: 58
+10:56:38 AM: Done: 50 http://www.sbpgroup.in/images/drop-arrow-1.png Success
+10:56:38 AM: Done: 47 http://www.sbpgroup.in/js/camera.min.js Success
+10:56:38 AM: Count: 107
+10:56:38 AM: HTML: 48
+10:56:38 AM: Count: 107
+10:56:38 AM: HTML: 49
+10:56:38 AM: Count: 107
+10:56:38 AM: HTML: 50
+10:56:38 AM: Count: 107
+10:56:38 AM: HTML: 51
+10:56:38 AM: Downloading: 68 http://www.sbpgroup.in/js/&&!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T(
+10:56:38 AM: Count: 107  ToDo: 56
+10:56:38 AM: Downloading: 69 http://www.sbpgroup.in/js/)},TAG:function(U,T){for(var%20V=0;T[V]===false;V++){}return%20T[V]&&Q(T[V])?U[1]:U[1].toUpperCase()},CHILD:function(T){if(T[1]==
+10:56:38 AM: Count: 107  ToDo: 56
+10:56:38 AM: Done: 51 http://www.sbpgroup.in/images/drop-arrow-1-hover.png Success
+10:56:38 AM: Count: 107
+10:56:38 AM: HTML: 52
+10:56:38 AM: Downloading: 70 http://www.sbpgroup.in/js/){var%20U=/(-?)(/d*)n((?:/+|-)?/d*)/.exec(T[2]==
+10:56:38 AM: Count: 107  ToDo: 55
+10:56:38 AM: Done: 65 http://www.sbpgroup.in/js/]*)((?:/([^/)]+/)|[^/2/(/)]*)+)/2/))?/},attrMap:{ Failed
+10:56:38 AM: : Fail http://www.sbpgroup.in/js/]*)((?:/([^/)]+/)|[^/2/(/)]*)+)/2/))?/},attrMap:{
+10:56:38 AM: 404: Not Found
+10:56:38 AM: LastError: 0 No Error
+10:56:38 AM: Downloading: 71 http://www.sbpgroup.in/js/).indexOf(T)>-1},ATTR:function(Y,W){var%20V=W[1],T=I.attrHandle[V]?I.attrHandle[V](Y):Y[V]!=null?Y[V]:Y.getAttribute(V),Z=T+
+10:56:38 AM: Count: 107  ToDo: 54
+10:56:38 AM: Done: 67 http://www.sbpgroup.in/js/:function(W,U,Y){var%20V=L++,T=S;if(!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T( Failed
+10:56:38 AM: : Fail http://www.sbpgroup.in/js/:function(W,U,Y){var%20V=L++,T=S;if(!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T(
+10:56:38 AM: 404: Not Found
+10:56:38 AM: LastError: 0 No Error
+10:56:38 AM: Downloading: 72 http://www.sbpgroup.in/js/,X=W[2],U=W[4];return%20T==null?X===
+10:56:38 AM: Count: 107  ToDo: 53
+10:56:39 AM: Done: 68 http://www.sbpgroup.in/js/&&!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T( Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/&&!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T(
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 73 http://www.sbpgroup.in/js/).indexOf(U)>=0:!U?Z&&T!==false:X===
+10:56:39 AM: Count: 107  ToDo: 52
+10:56:39 AM: Done: 69 http://www.sbpgroup.in/js/)},TAG:function(U,T){for(var%20V=0;T[V]===false;V++){}return%20T[V]&&Q(T[V])?U[1]:U[1].toUpperCase()},CHILD:function(T){if(T[1]== Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/)},TAG:function(U,T){for(var%20V=0;T[V]===false;V++){}return%20T[V]&&Q(T[V])?U[1]:U[1].toUpperCase()},CHILD:function(T){if(T[1]==
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 74 http://www.sbpgroup.in/js/,Y,V=aa.nodeType?[aa]:aa;while((Y=I.match.PSEUDO.exec(T))){X+=Y[0];T=T.replace(I.match.PSEUDO,
+10:56:39 AM: Count: 107  ToDo: 51
+10:56:39 AM: Done: 70 http://www.sbpgroup.in/js/){var%20U=/(-?)(/d*)n((?:/+|-)?/d*)/.exec(T[2]== Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/){var%20U=/(-?)(/d*)n((?:/+|-)?/d*)/.exec(T[2]==
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 75 http://www.sbpgroup.in/js/)}T=I.relative[T]?T+
+10:56:39 AM: Count: 107  ToDo: 50
+10:56:39 AM: Done: 71 http://www.sbpgroup.in/js/).indexOf(T)>-1},ATTR:function(Y,W){var%20V=W[1],T=I.attrHandle[V]?I.attrHandle[V](Y):Y[V]!=null?Y[V]:Y.getAttribute(V),Z=T+ Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/).indexOf(T)>-1},ATTR:function(Y,W){var%20V=W[1],T=I.attrHandle[V]?I.attrHandle[V](Y):Y[V]!=null?Y[V]:Y.getAttribute(V),Z=T+
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 76 http://www.sbpgroup.in/js/),function(F,E){o.fn[E]=function(G){return%20G?this.bind(E,G):this.trigger(E)}});o(l).bind(
+10:56:39 AM: Count: 107  ToDo: 49
+10:56:39 AM: Done: 72 http://www.sbpgroup.in/js/,X=W[2],U=W[4];return%20T==null?X=== Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/,X=W[2],U=W[4];return%20T==null?X===
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 77 http://www.sbpgroup.in/js/})})();var%20w=o.support.cssFloat?
+10:56:39 AM: Count: 107  ToDo: 48
+10:56:39 AM: Done: 73 http://www.sbpgroup.in/js/).indexOf(U)>=0:!U?Z&&T!==false:X=== Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/).indexOf(U)>=0:!U?Z&&T!==false:X===
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 78 http://www.sbpgroup.in/js/){F.html(E?o(
+10:56:39 AM: Count: 107  ToDo: 47
+10:56:39 AM: Done: 74 http://www.sbpgroup.in/js/,Y,V=aa.nodeType?[aa]:aa;while((Y=I.match.PSEUDO.exec(T))){X+=Y[0];T=T.replace(I.match.PSEUDO, Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/,Y,V=aa.nodeType?[aa]:aa;while((Y=I.match.PSEUDO.exec(T))){X+=Y[0];T=T.replace(I.match.PSEUDO,
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 79 http://www.sbpgroup.in/js/).append(M.responseText.replace(/<script(.|/s)*?//script>/g,
+10:56:39 AM: Count: 107  ToDo: 46
+10:56:39 AM: Done: 75 http://www.sbpgroup.in/js/)}T=I.relative[T]?T+ Failed
+10:56:39 AM: : Fail http://www.sbpgroup.in/js/)}T=I.relative[T]?T+
+10:56:39 AM: 404: Not Found
+10:56:39 AM: LastError: 0 No Error
+10:56:39 AM: Downloading: 80 http://www.sbpgroup.in/js/){if(!M.url.match(F)){M.url+=(M.url.match(//?/)?
+10:56:39 AM: Count: 107  ToDo: 45
+10:56:40 AM: Done: 76 http://www.sbpgroup.in/js/),function(F,E){o.fn[E]=function(G){return%20G?this.bind(E,G):this.trigger(E)}});o(l).bind( Failed
+10:56:40 AM: : Fail http://www.sbpgroup.in/js/),function(F,E){o.fn[E]=function(G){return%20G?this.bind(E,G):this.trigger(E)}});o(l).bind(
+10:56:40 AM: 404: Not Found
+10:56:40 AM: LastError: 0 No Error
+10:56:40 AM: Downloading: 81 http://www.sbpgroup.in/js/}}else{if(!M.data||!M.data.match(F)){M.data=(M.data?M.data+
+10:56:40 AM: Count: 107  ToDo: 44
+10:56:40 AM: Done: 77 http://www.sbpgroup.in/js/})})();var%20w=o.support.cssFloat? Failed
+10:56:40 AM: : Fail http://www.sbpgroup.in/js/})})();var%20w=o.support.cssFloat?
+10:56:40 AM: 404: Not Found
+10:56:40 AM: LastError: 0 No Error
+10:56:40 AM: Downloading: 82 http://www.sbpgroup.in/js/){var%20E=e();var%20U=M.url.replace(/(/?|&)_=.*?(&|$)/,
+10:56:40 AM: Count: 107  ToDo: 43
+10:56:40 AM: Done: 78 http://www.sbpgroup.in/js/){F.html(E?o( Failed
+10:56:40 AM: : Fail http://www.sbpgroup.in/js/){F.html(E?o(
+10:56:40 AM: 404: Not Found
+10:56:40 AM: LastError: 0 No Error
+10:56:40 AM: Done: 79 http://www.sbpgroup.in/js/).append(M.responseText.replace(/<script(.|/s)*?//script>/g, Failed
+10:56:40 AM: : Fail http://www.sbpgroup.in/js/).append(M.responseText.replace(/<script(.|/s)*?//script>/g,
+10:56:40 AM: 404: Not Found
+10:56:40 AM: LastError: 0 No Error
+10:56:40 AM: Downloading: 83 http://www.sbpgroup.in/js/);M.url=U+((U==M.url)?(M.url.match(//?/)?
+10:56:40 AM: Count: 107  ToDo: 41
+10:56:40 AM: Downloading: 84 http://www.sbpgroup.in/js/){M.url+=(M.url.match(//?/)?
+10:56:40 AM: Count: 107  ToDo: 41
+10:56:40 AM: Done: 81 http://www.sbpgroup.in/js/}}else{if(!M.data||!M.data.match(F)){M.data=(M.data?M.data+ Failed
+10:56:40 AM: : Fail http://www.sbpgroup.in/js/}}else{if(!M.data||!M.data.match(F)){M.data=(M.data?M.data+
+10:56:40 AM: 404: Not Found
+10:56:40 AM: LastError: 0 No Error
+10:56:40 AM: Downloading: 85 http://www.sbpgroup.in/js/)}var%20Q=/^(/w+:)?////([^//?
+10:56:40 AM: Count: 107  ToDo: 40
+10:56:40 AM: Done: 82 http://www.sbpgroup.in/js/){var%20E=e();var%20U=M.url.replace(/(/?|&)_=.*?(&|$)/, Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/){var%20E=e();var%20U=M.url.replace(/(/?|&)_=.*?(&|$)/,
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Downloading: 86 http://www.sbpgroup.in/js/,M.dataType&&M.accepts[M.dataType]?M.accepts[M.dataType]+
+10:56:41 AM: Count: 107  ToDo: 39
+10:56:41 AM: Done: 83 http://www.sbpgroup.in/js/);M.url=U+((U==M.url)?(M.url.match(//?/)? Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/);M.url=U+((U==M.url)?(M.url.match(//?/)?
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Done: 84 http://www.sbpgroup.in/js/){M.url+=(M.url.match(//?/)? Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/){M.url+=(M.url.match(//?/)?
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Downloading: 87 http://www.sbpgroup.in/js/:!o.httpSuccess(J)?
+10:56:41 AM: Count: 107  ToDo: 37
+10:56:41 AM: Downloading: 88 http://www.sbpgroup.in/js/:M.ifModified&&o.httpNotModified(J,M.url)?
+10:56:41 AM: Count: 107  ToDo: 37
+10:56:41 AM: Done: 85 http://www.sbpgroup.in/js/)}var%20Q=/^(/w+:)?////([^//? Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/)}var%20Q=/^(/w+:)?////([^//?
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Downloading: 89 http://www.sbpgroup.in/js/)>=0,I=E?J.responseXML:J.responseText;if(E&&I.documentElement.tagName==
+10:56:41 AM: Count: 107  ToDo: 36
+10:56:41 AM: Done: 80 http://www.sbpgroup.in/js/){if(!M.url.match(F)){M.url+=(M.url.match(//?/)? Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/){if(!M.url.match(F)){M.url+=(M.url.match(//?/)?
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Downloading: 91 http://www.sbpgroup.in/js/;return%20o.isFunction(G)&&o.isFunction(F)?this._toggle.apply(this,arguments):G==null||E?this.each(function(){var%20H=E?G:o(this).is(
+10:56:41 AM: Count: 107  ToDo: 35
+10:56:41 AM: Done: 86 http://www.sbpgroup.in/js/,M.dataType&&M.accepts[M.dataType]?M.accepts[M.dataType]+ Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/,M.dataType&&M.accepts[M.dataType]?M.accepts[M.dataType]+
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Downloading: 92 http://www.sbpgroup.in/js/);o(this)[H?
+10:56:41 AM: Count: 107  ToDo: 34
+10:56:41 AM: Done: 87 http://www.sbpgroup.in/js/:!o.httpSuccess(J)? Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/:!o.httpSuccess(J)?
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Downloading: 93 http://www.sbpgroup.in/js/,3),G,F)},fadeTo:function(E,G,F){return%20this.animate({opacity:G},E,F)},animate:function(I,F,H,G){var%20E=o.speed(F,H,G);return%20this[E.queue===false?
+10:56:41 AM: Count: 107  ToDo: 33
+10:56:41 AM: Done: 88 http://www.sbpgroup.in/js/:M.ifModified&&o.httpNotModified(J,M.url)? Failed
+10:56:41 AM: : Fail http://www.sbpgroup.in/js/:M.ifModified&&o.httpNotModified(J,M.url)?
+10:56:41 AM: 404: Not Found
+10:56:41 AM: LastError: 0 No Error
+10:56:41 AM: Downloading: 95 http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit||
+10:56:41 AM: Count: 107  ToDo: 32
+10:56:41 AM: Done: 95 http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit|| CreateError
+10:56:41 AM: : Create Error (No Error): http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit||
+10:56:41 AM: LastError: 0
+10:56:41 AM: Downloading: 96 http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing?
+10:56:41 AM: Count: 107  ToDo: 32
+10:56:41 AM: Done: 96 http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing? CreateError
+10:56:41 AM: : Create Error (No Error): http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing?
+10:56:41 AM: LastError: 0
+10:56:41 AM: Downloading: 97 http://www.sbpgroup.in/js/,true),10)||0}return{top:G,left:F}}};o.fn.extend({position:function(){var%20I=0,H=0,F;if(this[0]){var%20G=this.offsetParent(),J=this.offset(),E=/^body|html$/i.test(G[0].tagName)?{top:0,left:0}:G.offset();J.top-=j(this,
+10:56:41 AM: Count: 107  ToDo: 32
+10:56:42 AM: Done: 89 http://www.sbpgroup.in/js/)>=0,I=E?J.responseXML:J.responseText;if(E&&I.documentElement.tagName== Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/)>=0,I=E?J.responseXML:J.responseText;if(E&&I.documentElement.tagName==
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Done: 91 http://www.sbpgroup.in/js/;return%20o.isFunction(G)&&o.isFunction(F)?this._toggle.apply(this,arguments):G==null||E?this.each(function(){var%20H=E?G:o(this).is( Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/;return%20o.isFunction(G)&&o.isFunction(F)?this._toggle.apply(this,arguments):G==null||E?this.each(function(){var%20H=E?G:o(this).is(
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Downloading: 98 http://www.sbpgroup.in/js/+E;o.fn[G]=function(H){if(!this[0]){return%20null}return%20H!==g?this.each(function(){this==l||this==document?l.scrollTo(!F?H:o(l).scrollLeft(),F?H:o(l).scrollTop()):this[G]=H}):this[0]==l||this[0]==document?self[F?
+10:56:42 AM: Count: 107  ToDo: 30
+10:56:42 AM: Downloading: 99 http://www.sbpgroup.in/js/],function(I,G){var%20E=I?
+10:56:42 AM: Count: 107  ToDo: 30
+10:56:42 AM: Done: 92 http://www.sbpgroup.in/js/);o(this)[H? Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/);o(this)[H?
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Downloading: 100 http://www.sbpgroup.in/js/,H=I?
+10:56:42 AM: Count: 107  ToDo: 29
+10:56:42 AM: Done: 93 http://www.sbpgroup.in/js/,3),G,F)},fadeTo:function(E,G,F){return%20this.animate({opacity:G},E,F)},animate:function(I,F,H,G){var%20E=o.speed(F,H,G);return%20this[E.queue===false? Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/,3),G,F)},fadeTo:function(E,G,F){return%20this.animate({opacity:G},E,F)},animate:function(I,F,H,G){var%20E=o.speed(F,H,G);return%20this[E.queue===false?
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Done: 97 http://www.sbpgroup.in/js/,true),10)||0}return{top:G,left:F}}};o.fn.extend({position:function(){var%20I=0,H=0,F;if(this[0]){var%20G=this.offsetParent(),J=this.offset(),E=/^body|html$/i.test(G[0].tagName)?{top:0,left:0}:G.offset();J.top-=j(this, Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/,true),10)||0}return{top:G,left:F}}};o.fn.extend({position:function(){var%20I=0,H=0,F;if(this[0]){var%20G=this.offsetParent(),J=this.offset(),E=/^body|html$/i.test(G[0].tagName)?{top:0,left:0}:G.offset();J.top-=j(this,
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Downloading: 102 http://www.sbpgroup.in/js/+G]=function(){return%20this[0]?o.css(this[0],F,false,
+10:56:42 AM: Count: 107  ToDo: 27
+10:56:42 AM: Downloading: 104 http://www.sbpgroup.in/js/+G]=function(K){return%20this[0]?o.css(this[0],F,false,K?
+10:56:42 AM: Count: 107  ToDo: 27
+10:56:42 AM: Done: 98 http://www.sbpgroup.in/js/+E;o.fn[G]=function(H){if(!this[0]){return%20null}return%20H!==g?this.each(function(){this==l||this==document?l.scrollTo(!F?H:o(l).scrollLeft(),F?H:o(l).scrollTop()):this[G]=H}):this[0]==l||this[0]==document?self[F? Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/+E;o.fn[G]=function(H){if(!this[0]){return%20null}return%20H!==g?this.each(function(){this==l||this==document?l.scrollTo(!F?H:o(l).scrollLeft(),F?H:o(l).scrollTop()):this[G]=H}):this[0]==l||this[0]==document?self[F?
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Downloading: 105 http://www.sbpgroup.in/js/):null};var%20J=G.toLowerCase();o.fn[J]=function(K){return%20this[0]==l?document.compatMode==
+10:56:42 AM: Count: 107  ToDo: 26
+10:56:42 AM: Done: 99 http://www.sbpgroup.in/js/],function(I,G){var%20E=I? Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/],function(I,G){var%20E=I?
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Downloading: 106 http://www.sbpgroup.in/js/+G]:this[0]==document?Math.max(document.documentElement[
+10:56:42 AM: Count: 107  ToDo: 25
+10:56:42 AM: Done: 100 http://www.sbpgroup.in/js/,H=I? Failed
+10:56:42 AM: : Fail http://www.sbpgroup.in/js/,H=I?
+10:56:42 AM: 404: Not Found
+10:56:42 AM: LastError: 0 No Error
+10:56:42 AM: Downloading: 66 http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}},
+10:56:42 AM: Count: 107  ToDo: 24
+10:56:42 AM: Done: 66 http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}}, CreateError
+10:56:42 AM: : Create Error (No Error): http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}},
+10:56:42 AM: LastError: 0
+10:56:42 AM: Downloading: 95 http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit||
+10:56:42 AM: Count: 107  ToDo: 24
+10:56:42 AM: Done: 95 http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit|| CreateError
+10:56:42 AM: : Create Error (No Error): http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit||
+10:56:42 AM: LastError: 0
+10:56:42 AM: Downloading: 96 http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing?
+10:56:42 AM: Count: 107  ToDo: 24
+10:56:42 AM: Done: 96 http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing? CreateError
+10:56:42 AM: : Create Error (No Error): http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing?
+10:56:42 AM: LastError: 0
+10:56:42 AM: Downloading: 66 http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}},
+10:56:42 AM: Count: 107  ToDo: 24
+10:56:42 AM: Done: 66 http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}}, CreateError
+10:56:42 AM: : Create Error (No Error): http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}},
+10:56:42 AM: LastError: 0
+10:56:42 AM: Downloading: 95 http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit||
+10:56:42 AM: Count: 107  ToDo: 23
+10:56:42 AM: Done: 95 http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit|| CreateError
+10:56:42 AM: : Create Error (No Error): http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit||
+10:56:42 AM: LastError: 0
+10:56:43 AM: Downloading: 96 http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing?
+10:56:43 AM: Count: 107  ToDo: 22
+10:56:43 AM: Done: 96 http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing? CreateError
+10:56:43 AM: : Create Error (No Error): http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing?
+10:56:43 AM: LastError: 0
+10:56:43 AM: Downloading: 52 http://www.sbpgroup.in/images/banner-inner.jpg
+10:56:43 AM: Count: 107  ToDo: 21
+10:56:43 AM: Done: 104 http://www.sbpgroup.in/js/+G]=function(K){return%20this[0]?o.css(this[0],F,false,K? Failed
+10:56:43 AM: : Fail http://www.sbpgroup.in/js/+G]=function(K){return%20this[0]?o.css(this[0],F,false,K?
+10:56:43 AM: 404: Not Found
+10:56:43 AM: LastError: 0 No Error
+10:56:43 AM: Downloading: 53 http://www.sbpgroup.in/images/arrow.png
+10:56:43 AM: Count: 107  ToDo: 20
+10:56:43 AM: Done: 102 http://www.sbpgroup.in/js/+G]=function(){return%20this[0]?o.css(this[0],F,false, Failed
+10:56:43 AM: : Fail http://www.sbpgroup.in/js/+G]=function(){return%20this[0]?o.css(this[0],F,false,
+10:56:43 AM: 404: Not Found
+10:56:43 AM: LastError: 0 No Error
+10:56:43 AM: Downloading: 54 http://www.sbpgroup.in/images/more-bg.jpg
+10:56:43 AM: Count: 107  ToDo: 19
+10:56:43 AM: Done: 105 http://www.sbpgroup.in/js/):null};var%20J=G.toLowerCase();o.fn[J]=function(K){return%20this[0]==l?document.compatMode== Failed
+10:56:43 AM: : Fail http://www.sbpgroup.in/js/):null};var%20J=G.toLowerCase();o.fn[J]=function(K){return%20this[0]==l?document.compatMode==
+10:56:43 AM: 404: Not Found
+10:56:43 AM: LastError: 0 No Error
+10:56:43 AM: Downloading: 55 http://www.sbpgroup.in/images/like-icon.png
+10:56:43 AM: Count: 107  ToDo: 18
+10:56:43 AM: Done: 106 http://www.sbpgroup.in/js/+G]:this[0]==document?Math.max(document.documentElement[ Failed
+10:56:43 AM: : Fail http://www.sbpgroup.in/js/+G]:this[0]==document?Math.max(document.documentElement[
+10:56:43 AM: 404: Not Found
+10:56:43 AM: LastError: 0 No Error
+10:56:43 AM: Downloading: 56 http://www.sbpgroup.in/images/why-icon.png
+10:56:43 AM: Count: 107  ToDo: 17
+10:56:43 AM: Done: 54 http://www.sbpgroup.in/images/more-bg.jpg Success
+10:56:43 AM: Downloading: 57 http://www.sbpgroup.in/images/why-icon2.png
+10:56:43 AM: Count: 107  ToDo: 16
+10:56:43 AM: Done: 53 http://www.sbpgroup.in/images/arrow.png Success
+10:56:43 AM: Downloading: 58 http://www.sbpgroup.in/images/border-blue.jpg
+10:56:43 AM: Count: 107  ToDo: 15
+10:56:43 AM: Done: 52 http://www.sbpgroup.in/images/banner-inner.jpg Success
+10:56:43 AM: Count: 107
+10:56:43 AM: HTML: 53
+10:56:43 AM: Count: 107
+10:56:43 AM: HTML: 54
+10:56:43 AM: Count: 107
+10:56:43 AM: HTML: 55
+10:56:43 AM: Downloading: 59 http://www.sbpgroup.in/images/subs-icon.png
+10:56:43 AM: Count: 107  ToDo: 14
+10:56:44 AM: Done: 55 http://www.sbpgroup.in/images/like-icon.png Success
+10:56:44 AM: Count: 107
+10:56:44 AM: HTML: 56
+10:56:44 AM: Downloading: 60 http://www.sbpgroup.in/images/social_f.png
+10:56:44 AM: Count: 107  ToDo: 13
+10:56:44 AM: Done: 56 http://www.sbpgroup.in/images/why-icon.png Success
+10:56:44 AM: Count: 107
+10:56:44 AM: HTML: 57
+10:56:44 AM: Downloading: 61 http://www.sbpgroup.in/images/border-gray.jpg
+10:56:44 AM: Count: 107  ToDo: 12
+10:56:44 AM: Done: 57 http://www.sbpgroup.in/images/why-icon2.png Success
+10:56:44 AM: Count: 107
+10:56:44 AM: HTML: 58
+10:56:44 AM: Downloading: 62 http://www.sbpgroup.in/images/bullet1.png
+10:56:44 AM: Count: 107  ToDo: 11
+10:56:44 AM: Done: 58 http://www.sbpgroup.in/images/border-blue.jpg Success
+10:56:44 AM: Count: 107
+10:56:44 AM: HTML: 59
+10:56:44 AM: Downloading: 63 http://www.sbpgroup.in/images/client-icon.jpg
+10:56:44 AM: Count: 107  ToDo: 10
+10:56:44 AM: Done: 59 http://www.sbpgroup.in/images/subs-icon.png Success
+10:56:44 AM: Count: 107
+10:56:44 AM: HTML: 60
+10:56:44 AM: Downloading: 64 http://www.sbpgroup.in/images/sbp-icon.jpg
+10:56:44 AM: Count: 107  ToDo: 9
+10:56:44 AM: Done: 60 http://www.sbpgroup.in/images/social_f.png Success
+10:56:44 AM: Count: 107
+10:56:44 AM: HTML: 61
+10:56:44 AM: Downloading: 90 http://www.sbpgroup.in/js/);K=I.css(
+10:56:44 AM: Count: 107  ToDo: 8
+10:56:44 AM: Done: 61 http://www.sbpgroup.in/images/border-gray.jpg Success
+10:56:44 AM: Count: 107
+10:56:44 AM: HTML: 62
+10:56:44 AM: Downloading: 94 http://www.sbpgroup.in/js/](function(){var%20K=o.extend({},E),M,L=this.nodeType==1&&o(this).is(
+10:56:44 AM: Count: 107  ToDo: 7
+10:56:45 AM: Done: 62 http://www.sbpgroup.in/images/bullet1.png Success
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 63
+10:56:45 AM: Downloading: 101 http://www.sbpgroup.in/js/,F=G.toLowerCase();o.fn[
+10:56:45 AM: Count: 107  ToDo: 6
+10:56:45 AM: Done: 63 http://www.sbpgroup.in/images/client-icon.jpg Success
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 64
+10:56:45 AM: Downloading: 103 http://www.sbpgroup.in/js/):null};o.fn[
+10:56:45 AM: Count: 107  ToDo: 5
+10:56:45 AM: Done: 64 http://www.sbpgroup.in/images/sbp-icon.jpg Success
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 65
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 66
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 67
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 68
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 69
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 70
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 71
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 72
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 73
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 74
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 75
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 76
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 77
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 78
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 79
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 80
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 81
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 82
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 83
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 84
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 85
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 86
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 87
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 88
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 89
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 90
+10:56:45 AM: Done: 90 http://www.sbpgroup.in/js/);K=I.css( Failed
+10:56:45 AM: : Fail http://www.sbpgroup.in/js/);K=I.css(
+10:56:45 AM: 404: Not Found
+10:56:45 AM: LastError: 0 No Error
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 91
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 92
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 93
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 94
+10:56:45 AM: Done: 94 http://www.sbpgroup.in/js/](function(){var%20K=o.extend({},E),M,L=this.nodeType==1&&o(this).is( Failed
+10:56:45 AM: : Fail http://www.sbpgroup.in/js/](function(){var%20K=o.extend({},E),M,L=this.nodeType==1&&o(this).is(
+10:56:45 AM: 404: Not Found
+10:56:45 AM: LastError: 0 No Error
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 95
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 96
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 97
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 98
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 99
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 100
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 101
+10:56:45 AM: Done: 103 http://www.sbpgroup.in/js/):null};o.fn[ Failed
+10:56:45 AM: : Fail http://www.sbpgroup.in/js/):null};o.fn[
+10:56:45 AM: 404: Not Found
+10:56:45 AM: LastError: 0 No Error
+10:56:45 AM: Done: 101 http://www.sbpgroup.in/js/,F=G.toLowerCase();o.fn[ Failed
+10:56:45 AM: : Fail http://www.sbpgroup.in/js/,F=G.toLowerCase();o.fn[
+10:56:45 AM: 404: Not Found
+10:56:45 AM: LastError: 0 No Error
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 102
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 103
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 104
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 105
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 106
+10:56:45 AM: Count: 107
+10:56:45 AM: HTML: 107
+10:56:45 AM: EndStatus = CompleteWorking
+10:56:45 AM: AfterDownload - renaming files 5/26/2015 10:56:45 AM
+10:56:45 AM: AfterDownload - Replacing links 5/26/2015 10:56:45 AM
+10:56:46 AM: AfterDownload - Creating reports 5/26/2015 10:56:46 AM
+10:56:46 AM: ParseDone - Completed 5/26/2015 10:56:46 AM
+10:56:46 AM: Write file list: c:\users\administrator\documents\webstripper\sbpgroup\WebStripper\FileList.cfg
+10:56:46 AM: Write link list: c:\users\administrator\documents\webstripper\sbpgroup\WebStripper\LinkList.dat

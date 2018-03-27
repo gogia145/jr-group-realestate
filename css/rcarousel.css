@@ -1,0 +1,108 @@
+.ui-carousel {
+	min-height: 100px;
+	margin: 0;
+	overflow: auto;
+	padding: 0;
+	position: relative; /*for ie7 to work e.g in html carousels*/
+	width:720px;
+	float:right;
+}
+
+.ui-carousel > .wrapper {
+    margin: 0;
+    padding: 0;
+    width: 9999px;
+}
+
+.ui-carousel > .wrapper > * {
+	border: 0;
+	display: block;
+	float: left;
+	min-height: 100px;
+	overflow: hidden;
+	width: 100px;	
+}
+
+
+#carousel {	float:right;
+            width:218px !important;
+              
+		  }
+			
+#pages { width:280px;
+		 float:left ;
+		 margin-left:0px;
+	   }
+			
+.bullet { background: url(../images/page-off.png) center center no-repeat;
+		  display: block;
+		  width: 13px;
+		  height: 13px;
+		  margin: 0;
+		  margin-right: 5px;
+		  float: left;				
+	}
+	
+.carousel_img { float:left ;
+                margin-bottom:5px;
+			  }
+
+.slide { padding-right:20px;
+        }
+
+.slide_img { float:left ;
+             width:221px;
+			 height:81px;
+			 }	
+		
+#controls_i { width:54px ;
+              float:left;
+			  margin-left:-56px;
+			  margin-top:105px;
+		    }
+
+#ui-carousel-next { width:25px ;
+                    height:25px;
+					float:right ;
+					background:#b8bcc1 url(../images/arrownext.png) no-repeat center center;
+					cursor:pointer;
+					border:1px solid #b8bcc1;
+					-webkit-transition-property:color, text, padding, box-shadow, border;
+	-webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear, ease-in;
+								
+	-moz-transition-property:color, text, padding, box-shadow, border;
+	-moz-transition-duration:0.5s;
+	-moz-transition-timing-function: linear, ease-in;
+								
+	-o-transition-property:color, text, padding, box-shadow, border;
+	-o-transition-duration:0.5s;
+	-o-transition-timing-function: linear, ease-in;
+					}
+#ui-carousel-next:hover { background:#126eab url(../images/arrownext.png) no-repeat center center;
+                          border:1px solid #a7cc47;
+                        }
+
+
+#ui-carousel-prev { width:25px ;
+                    height:25px;
+					float:left ;
+					background:#b8bcc1 url(../images/arrowprev.png) no-repeat center center;
+					cursor:pointer;
+					border:1px solid #b8bcc1;
+					-webkit-transition-property:color, text, padding, box-shadow, border;
+	-webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear, ease-in;
+								
+	-moz-transition-property:color, text, padding, box-shadow, border;
+	-moz-transition-duration:0.5s;
+	-moz-transition-timing-function: linear, ease-in;
+								
+	-o-transition-property:color, text, padding, box-shadow, border;
+	-o-transition-duration:0.5s;
+	-o-transition-timing-function: linear, ease-in;
+					}
+
+#ui-carousel-prev:hover { background:#126eab url(../images/arrowprev.png) no-repeat center center;
+                          border:1px solid #a7cc47 ;
+                         }

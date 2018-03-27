@@ -1,0 +1,428 @@
+<file URL="http://www.sbpgroup.in/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="index.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4234837963" FileSize="26620" FileType="text/html" Referer="-1" FileFlags=8 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="://www.sbpgroup.in/favicon.ico"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="WebStripper\favicon01.ico" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=4 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/home-loans.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="home-loans.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4234375" FileSize="46899" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/rtgs-information.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="rtgs-information.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4234606481" FileSize="22826" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/nri-section.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="nri-section.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4229976852" FileSize="31866" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/real-estate-faqs.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="real-estate-faqs.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4229513889" FileSize="36712" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/sbp-brochure.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\sbp-brochure.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3971064815" FileSize="12884" FileType="image/jpeg" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/virtual-tour.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="virtual-tour.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4226388889" FileSize="23549" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/subscribe.php"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="subscribe.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/company-profile.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="company-profile.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4233101852" FileSize="24592" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/mission-and-vision.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="mission-and-vision.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4230439815" FileSize="23378" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/chairman-message.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="chairman-message.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4233680556" FileSize="23119" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/why-choose-us.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="why-choose-us.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4226157407" FileSize="23502" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/events-at-sbp.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="events-at-sbp.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4231828704" FileSize="26184" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/press-releases.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="press-releases.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.422962963" FileSize="21668" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/news-updates.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="news-updates.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4230208333" FileSize="21663" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/newsletter.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="newsletter.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4230092593" FileSize="21659" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/meet-us.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="meet-us.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4234259259" FileSize="25323" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/careers.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="careers.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4234027778" FileSize="22813" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sales-query-form.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sales-query-form.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4228935185" FileSize="21806" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-noor-villa-1.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-noor-villa-1.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4227430556" FileSize="23690" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-noor-villa-2.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-noor-villa-2.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4227199074" FileSize="23555" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-noor-city.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-noor-city.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4227546296" FileSize="23602" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-homes-1.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-homes-1.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4228587963" FileSize="25836" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-homes-2.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-homes-2.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4228356481" FileSize="25600" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-south-city.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-south-city.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4235185185" FileSize="41455" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-north-valley.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-north-valley.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4227199074" FileSize="40756" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-homes-3.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-homes-3.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4228472222" FileSize="47983" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/sbp-housing-park.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="sbp-housing-park.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4235069444" FileSize="48205" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/world-1-lifestyle.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="world-1-lifestyle.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4226157407" FileSize="23232" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/park-land.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="park-land.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.422974537" FileSize="23166" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/nano-housing.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="nano-housing.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4230324074" FileSize="23183" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/chandigarh-logistic-park.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="chandigarh-logistic-park.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4233564815" FileSize="23269" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/the-north-wild-resort.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="the-north-wild-resort.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4226851852" FileSize="23233" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://cityheart.co.in/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cityheart.co.in\index.html" Status="2" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.facebook.com/sbpgroup"
+ HumanStatus="Failed"
+ StatusCode="501"
+ ReasonPhrase="Protocol "https" not implemented" Destination="www.facebook.com\sbpgroup" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://twitter.com/sbp_group"
+ HumanStatus="Failed"
+ StatusCode="501"
+ ReasonPhrase="Protocol "https" not implemented" Destination="twitter.com\sbp_group" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://plus.google.com/+SbpgroupIn"
+ HumanStatus="Failed"
+ StatusCode="501"
+ ReasonPhrase="Protocol "https" not implemented" Destination="plus.google.com\+SbpgroupIn" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.youtube.com/user/sbpgroupin"
+ HumanStatus="Failed"
+ StatusCode="501"
+ ReasonPhrase="Protocol "https" not implemented" Destination="www.youtube.com\user\sbpgroupin" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/index.html"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="index.39.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4234837963" FileSize="26620" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://amsinformatics.com/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="amsinformatics.com\index.html" Status="2" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="41521.4446759259" FileSize="40955" FileType="text/html" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/script.js"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="js\script.js" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42103.2900810185" FileSize="8928" FileType="application/javascript" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/css/style.css"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="css\style.css" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42137.4201736111" FileSize="35041" FileType="text/css" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="fonts.googleapis.com\css.43.html" Status="2" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/css" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/css/ddsmoothmenu.css"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="css\ddsmoothmenu.css" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42103.2897106481" FileSize="4267" FileType="text/css" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/jquery.min.js"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="js\jquery.min.js" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42103.29" FileSize="57254" FileType="application/javascript" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/ddsmoothmenu.js"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="js\ddsmoothmenu.js" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42103.2899074074" FileSize="7183" FileType="application/javascript" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/camera.min.js"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="js\camera.min.js" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42103.2899189815" FileSize="38748" FileType="application/javascript" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/drop-arrow.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\drop-arrow.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3968402778" FileSize="943" FileType="image/png" Referer="44" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/drop-arrow-hover.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\drop-arrow-hover.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3967939815" FileSize="948" FileType="image/png" Referer="44" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/drop-arrow-1.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\drop-arrow-1.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3967824074" FileSize="964" FileType="image/png" Referer="44" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/drop-arrow-1-hover.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\drop-arrow-1-hover.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3967592593" FileSize="980" FileType="image/png" Referer="44" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/banner-inner.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\banner-inner.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3963425926" FileSize="23812" FileType="image/jpeg" Referer="42" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/arrow.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\arrow.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3961111111" FileSize="990" FileType="image/png" Referer="42" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/more-bg.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\more-bg.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3968981481" FileSize="1746" FileType="image/jpeg" Referer="42" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/like-icon.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\like-icon.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.396875" FileSize="1369" FileType="image/png" Referer="42" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/why-icon.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\why-icon.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3972106481" FileSize="2624" FileType="image/png" Referer="42" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/why-icon2.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\why-icon2.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3972106481" FileSize="1608" FileType="image/png" Referer="42" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/border-blue.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\border-blue.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3965625" FileSize="1123" FileType="image/jpeg" Referer="42" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/subs-icon.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\subs-icon.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3971875" FileSize="1264" FileType="image/png" Referer="42" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/social_f.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\social_f.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3971759259" FileSize="2312" FileType="image/png" Referer="42" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/border-gray.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\border-gray.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3965740741" FileSize="1121" FileType="image/jpeg" Referer="42" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/bullet1.png"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\bullet1.png" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3965856481" FileSize="972" FileType="image/png" Referer="42" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/client-icon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\client-icon.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3966203704" FileSize="2207" FileType="image/jpeg" Referer="42" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/images/sbp-icon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images\sbp-icon.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42100.3971412037" FileSize="2083" FileType="image/jpeg" Referer="42" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/]*)((?:/([^/)]+/)|[^/2/(/)]*)+)/2/))?/},attrMap:{"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\]2A)((.65.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,ab=X&&!//W/.test(T),Y=X&&!ab;if(ab&&!Z){T=T.toUpperCase()}for(var%20W=0,V=aa.length,U;W<V;W++){if((U=aa[W])){while((U=U.previousSibling)&&U.nodeType!==1){}aa[W]=Y||U&&U.nodeName===T?U||false:U===T}}if(Y){F.filter(T,aa,true)}},"
+ HumanStatus="CreateError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="js\,ab=X2626!5C\W\.test(T),Y=X2626!ab;if(ab2626!Z){T=T.toUpperCase()}for(var W=0,V=aa.length,U;W3CV;W++){if((U=aa[W])){while((U=U.previousSibling)2626U.nodeType!==1){}aa[W]=Y7C7CU2626U.nodeName===T.66.html" Status="18" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/:function(W,U,Y){var%20V=L++,T=S;if(!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\3Afunction(W,U,Y){var V=L++,T=S;if(!U.match(5C\W\)){var X=U=Y.67.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/&&!U.match(//W/)){var%20X=U=Y?U:U.toUpperCase();T=P}T("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\2626!U.match(5C\W\)){var X=U=Y.68.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/)},TAG:function(U,T){for(var%20V=0;T[V]===false;V++){}return%20T[V]&&Q(T[V])?U[1]:U[1].toUpperCase()},CHILD:function(T){if(T[1]=="
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\)},TAG3Afunction(U,T){for(var V=0;T[V]===false;V++){}return T[V]2626Q(T[V]).69.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/){var%20U=/(-?)(/d*)n((?:/+|-)?/d*)/.exec(T[2]=="
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\){var U=\(-.70.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/).indexOf(T)>-1},ATTR:function(Y,W){var%20V=W[1],T=I.attrHandle[V]?I.attrHandle[V](Y):Y[V]!=null?Y[V]:Y.getAttribute(V),Z=T+"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\).indexOf(T)3E-1},ATTR3Afunction(Y,W){var V=W[1],T=I.attrHandle[V].71.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,X=W[2],U=W[4];return%20T==null?X==="
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\,X=W[2],U=W[4];return T==null.72.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/).indexOf(U)>=0:!U?Z&&T!==false:X==="
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\).indexOf(U)3E=03A!U.73.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,Y,V=aa.nodeType?[aa]:aa;while((Y=I.match.PSEUDO.exec(T))){X+=Y[0];T=T.replace(I.match.PSEUDO,"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\,Y,V=aa.nodeType.74.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/)}T=I.relative[T]?T+"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\)}T=I.relative[T].75.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/),function(F,E){o.fn[E]=function(G){return%20G?this.bind(E,G):this.trigger(E)}});o(l).bind("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\),function(F,E){o.fn[E]=function(G){return G.76.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/})})();var%20w=o.support.cssFloat?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\})})();var w=o.support.cssFloat.77.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/){F.html(E?o("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\){F.html(E.78.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/).append(M.responseText.replace(/<script(.|/s)*?//script>/g,"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\).append(M.responseText.replace(\3Cscript(.7C\s)2A.79.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/){if(!M.url.match(F)){M.url+=(M.url.match(//?/)?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\){if(!M.url.match(F)){M.url+=(M.url.match(5C\.80.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/}}else{if(!M.data||!M.data.match(F)){M.data=(M.data?M.data+"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\}}else{if(!M.data7C7C!M.data.match(F)){M.data=(M.data.81.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/){var%20E=e();var%20U=M.url.replace(/(/?|&)_=.*?(&|$)/,"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\){var E=e();var U=M.url.replace(\(\.82.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/);M.url=U+((U==M.url)?(M.url.match(//?/)?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\);M.url=U+((U==M.url).83.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/){M.url+=(M.url.match(//?/)?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\){M.url+=(M.url.match(5C\.84.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/)}var%20Q=/^(/w+:)?////([^//?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\)}var Q=\^(\w+3A).85.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,M.dataType&&M.accepts[M.dataType]?M.accepts[M.dataType]+"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\,M.dataType2626M.accepts[M.dataType].86.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/:!o.httpSuccess(J)?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\3A!o.httpSuccess(J).87.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/:M.ifModified&&o.httpNotModified(J,M.url)?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\3AM.ifModified2626o.httpNotModified(J,M.url).88.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/)>=0,I=E?J.responseXML:J.responseText;if(E&&I.documentElement.tagName=="
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\)3E=0,I=E.89.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/);K=I.css("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\);K=I.css(" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/;return%20o.isFunction(G)&&o.isFunction(F)?this._toggle.apply(this,arguments):G==null||E?this.each(function(){var%20H=E?G:o(this).is("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\;return o.isFunction(G)2626o.isFunction(F).91.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/);o(this)[H?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\);o(this)[H.92.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,3),G,F)},fadeTo:function(E,G,F){return%20this.animate({opacity:G},E,F)},animate:function(I,F,H,G){var%20E=o.speed(F,H,G);return%20this[E.queue===false?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\,3),G,F)},fadeTo3Afunction(E,G,F){return this.animate({opacity3AG},E,F)},animate3Afunction(I,F,H,G){var E=o.speed(F,H,G);return this[E.queue===false.93.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/](function(){var%20K=o.extend({},E),M,L=this.nodeType==1&&o(this).is("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\](function(){var K=o.extend({},E),M,L=this.nodeType==12626o(this).is(" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/}},cur:function(F){if(this.elem[this.prop]!=null&&(!this.elem.style||this.elem.style[this.prop]==null)){return%20this.elem[this.prop]}var%20E=parseFloat(o.css(this.elem,this.prop,F));return%20E&&E>-10000?E:parseFloat(o.curCSS(this.elem,this.prop))||0},custom:function(I,H,G){this.startTime=e();this.start=I;this.end=H;this.unit=G||this.unit||"
+ HumanStatus="CreateError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="js\}},cur3Afunction(F){if(this.elem[this.prop]!=null2626(!this.elem.style7C7Cthis.elem.style[this.prop]==null)){return this.elem[this.prop]}var E=parseFloat(o.css(this.elem,this.prop,F));return E2626E3E-10000.95.html" Status="18" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide||this.options.show){for(var%20I%20in%20this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return%20false}else{var%20J=G-this.startTime;this.state=J/this.options.duration;this.pos=o.easing[this.options.easing||(o.easing.swing?"
+ HumanStatus="CreateError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="js\}}if(this.options.hide){o(this.elem).hide()}if(this.options.hide7C7Cthis.options.show){for(var I in this.options.curAnim){o.attr(this.elem.style,I,this.options.orig[I])}}this.options.complete.call(this.elem)}return false}else{var J=G-this.startTime;this.state=J\this.options.duration;this.pos=o.easing[this.options.easing7C7C(o.easing.swing.96.html" Status="18" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,true),10)||0}return{top:G,left:F}}};o.fn.extend({position:function(){var%20I=0,H=0,F;if(this[0]){var%20G=this.offsetParent(),J=this.offset(),E=/^body|html$/i.test(G[0].tagName)?{top:0,left:0}:G.offset();J.top-=j(this,"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\,true),10)7C7C0}return{top3AG,left3AF}}};o.fn.extend({position3Afunction(){var I=0,H=0,F;if(this[0]){var G=this.offsetParent(),J=this.offset(),E=\^body7Chtml$\i.test(G[0].tagName).97.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/+E;o.fn[G]=function(H){if(!this[0]){return%20null}return%20H!==g?this.each(function(){this==l||this==document?l.scrollTo(!F?H:o(l).scrollLeft(),F?H:o(l).scrollTop()):this[G]=H}):this[0]==l||this[0]==document?self[F?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\+E;o.fn[G]=function(H){if(!this[0]){return null}return H!==g.98.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/],function(I,G){var%20E=I?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\],function(I,G){var E=I.99.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,H=I?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\,H=I.100.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/,F=G.toLowerCase();o.fn["
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\,F=G.toLowerCase();o.fn[" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/+G]=function(){return%20this[0]?o.css(this[0],F,false,"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\+G]=function(){return this[0].102.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/):null};o.fn["
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\)3Anull};o.fn[" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/+G]=function(K){return%20this[0]?o.css(this[0],F,false,K?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\+G]=function(K){return this[0].104.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/):null};var%20J=G.toLowerCase();o.fn[J]=function(K){return%20this[0]==l?document.compatMode=="
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\)3Anull};var J=G.toLowerCase();o.fn[J]=function(K){return this[0]==l.105.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.sbpgroup.in/js/+G]:this[0]==document?Math.max(document.documentElement["
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="js\+G]3Athis[0]==document.106.html" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="45" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>

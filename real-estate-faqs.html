@@ -1,0 +1,788 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> SBP Group </title>
+<!--page_css-->
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+<!--page_css-->
+
+<!--nav_css-->
+<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/ddsmoothmenu.js"></script>
+<script language="javascript" type="text/javascript">
+ddsmoothmenu.init({
+	mainmenuid: "templatemo_menu", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+<!--nav_css-->
+
+<!--placeholder-->
+<script src="js/jquery.placeholder.js" type="text/javascript"> </script>
+<script type="text/javascript">
+  $(function() {
+   $('input, textarea').placeholder();
+  });
+</script>
+<!--placeholder-->
+
+<!--carousel-->
+<script type="text/javascript" src="js/jquery-1.7.1.js"></script>
+<script type="text/javascript" src="js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="js/jquery.ui.rcarousel.js"></script>
+<script type="text/javascript">
+			jQuery(function($) {
+				function generatePages() {
+					var _total, i, _link;
+					
+					_total = $( "#carousel" ).rcarousel( "getTotalPages" );
+					
+					for ( i = 0; i < _total; i++ ) {
+						_link = $( "<a href='#'></a>" );
+						
+						$(_link)
+							.bind("click", {page: i},
+								function( event ) {
+									$( "#carousel" ).rcarousel( "goToPage", event.data.page );
+									event.preventDefault();
+								}
+							)
+							.addClass( "bullet off" )
+							.appendTo( "#pages" );
+					}
+					
+					// mark first page as active
+					$( "a:eq(0)", "#pages" )
+						.removeClass( "off" )
+						.addClass( "on" )
+						.css( "background-image", "url(images/page-on.png)" );
+
+				}
+
+				function pageLoaded( event, data ) {
+					$( "a.on", "#pages" )
+						.removeClass( "on" )
+						.css( "background-image", "url(images/page-off.png)" );
+
+					$( "a", "#pages" )
+						.eq( data.page )
+						.addClass( "on" )
+						.css( "background-image", "url(images/page-on.png)" );
+				}
+				
+				$("#carousel").rcarousel(
+					{
+						visible: 1,
+						step: 1,
+						speed: 700,
+						auto: {
+							enabled: true
+						},
+						width: 225,
+						height:222,
+						start: generatePages,
+						pageLoaded: pageLoaded
+					}
+				);
+				
+				$( "#ui-carousel-next" )
+					.add( "#ui-carousel-prev" )
+					.add( ".bullet" )
+					.hover(
+						function() {
+							$( this ).css( "opacity", 1.0 );
+						},
+						function() {
+							$( this ).css( "opacity", 1.0 );
+					}
+		);
+	});
+</script>
+<link type="text/css" rel="stylesheet" href="css/rcarousel2.css" />
+<!--carousel-->
+<!--slider-->
+<link rel='stylesheet' id='main_style-css'  href='css/slider.css' type='text/css' media='all' />
+<script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='js/jquery-easing-1.3.js'></script>
+<!--slider-->
+
+<!--tabs_s-->
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$(".tab_content").hide();
+	$(".tab_content:first").show(); 
+
+	$("ul.tabs li").click(function() {
+		$("ul.tabs li").removeClass("active");
+		$(this).addClass("active");
+		$(".tab_content").hide();
+		var activeTab = $(this).attr("rel"); 
+		$("#"+activeTab).fadeIn(); 
+	});
+});
+
+</script>
+<!--tabs_e-->
+
+<!--form_js-->
+<script type="text/javascript"> 
+function checkdata1() 
+ 
+{
+ 
+  var msg
+ 
+  var errors
+ 
+  var str
+ 
+  var st_email
+ 
+  errors=0
+ 
+  msg="" 
+ 
+if (document.getElementById('emails').value=="")  
+ 
+     { 
+ 
+   msg=msg+"Email" + "\n" 
+ 
+  errors=errors+1
+ 
+     }
+
+if (errors>0 )
+ 
+{
+ 
+   alert("Following fields are required : "  + "\n" + msg)
+ 
+   return false
+ 
+}
+ 
+ 
+ 
+if (errors==0)
+ 
+{  
+ 
+st_email=new String(document.getElementById('emails').value)
+ 
+  if ((st_email.indexOf(".")<0) || (st_email.indexOf("@")<0))
+ 
+  { 
+ 
+   msg=msg + "Email Address is invalid" + "\n"  
+ 
+   errors=errors+1
+ 
+  }
+ 
+ 
+ 
+ 
+ 
+if (errors>0)
+ 
+ {
+ 
+  alert(msg)
+ 
+  return false
+ 
+ }
+  
+ 
+}
+ 
+else 
+ 
+{
+
+return true
+ 
+}
+
+alert('You have successfully subscribed to the SBP Group Newsletter..');
+ 
+}
+ 
+</script>
+
+<!--formjs-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61984844-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</head>
+
+<body>
+
+<!--header-->
+ <div id="header">
+  <div class="main_container">
+   <div id="header1">
+    
+    <div id="header_left">
+     <a href="index.html"> <img src="images/smalljr.png" alt="sbp Group" class="logo" /> </a>
+    </div>
+    
+    <div id="header_right">
+     <div id="templatemo_menu" class="ddsmoothmenu">
+         <ul>  
+             <li> <a href="index.html" class="no_drop active_nav"> home </a> </li> 
+             <li> <a href="#"> corporate </a> 
+                <ul>
+                   <li> <a href="company-profile.html" class="nodrop1">  company profile  </a>  </li>
+                   <li> <a href="mission-and-vision.html" class="nodrop1">  mission &amp; vision </a>  </li>
+                   <li> <a href="chairman-message.html" class="nodrop1">  Chairman Message  </a>  </li>
+                   <li> <a href="why-choose-us.html" class="nodrop1">  why choose us </a>  </li>
+                </ul>               
+               </li>
+               <li> <a href="#"> Residential Projects </a> 
+                <ul>
+                  <li> <a href="#"> Delivered Projects </a> 
+                   <ul>
+                     <li> <a href="sbp-north-valley.html" class="nodrop1"> SBP North Valley </a>  </li>
+                     <li> <a href="sbp-south-city.html" class="nodrop1"> SBP South City </a>  </li>
+                     <li> <a href="sbp-homes-2.html" class="nodrop1"> SBP Homes 2 </a>  </li>
+                     <li> <a href="sbp-homes-1.html" class="nodrop1"> SBP Homes 1 </a>  </li>
+                     <li> <a href="sbp-noor-city.html" class="nodrop1"> SBP Noor City </a>  </li>
+                     <li> <a href="sbp-noor-villa-2.html" class="nodrop1"> SBP Noor Villa 2 </a>  </li>
+                     <li> <a href="sbp-noor-villa-1.html" class="nodrop1"> SBP Noor Villa 1 </a>  </li>
+                   </ul>
+                  </li>
+                  <li> <a href=""> Ongoing Projects </a> 
+                   <ul>
+                     <li> <a href="http://www.sbphousingpark.com/" class="nodrop1" target="_blank"> Ananda Towers  </a>  </li>
+                      <li> <a href="sbp-housing-park.html" class="nodrop1" target="_blank"> SBP Housing Park  </a>  </li>
+                     <li> <a href="sbp-homes-3.html" class="nodrop1"> 	SBP Homes 3  </a>  </li>
+                   </ul>
+                  </li>
+                  <li> <a href=""> Upcoming Projects </a> 
+                   <ul>
+                     <li> <a href="world-1-lifestyle.html" class="nodrop1">	World 1 Lifestyle </a> </li>
+                     <li> <a href="park-land.html" class="nodrop1">	Park Land  </a> </li>
+                     <li> <a href="nano-housing.html" class="nodrop1">	Nano Housing  </a> </li>
+                     <li> <a href="chandigarh-logistic-park.html" class="nodrop1">	Chandigarh Logistic Park </a> </li>
+                     <li> <a href="the-north-wild-resort.html" class="nodrop1">	The North Wild Resort </a> </li>
+                   </ul>
+                  </li>                  
+                </ul>
+               </li>
+               <li> <a href="#"> Commercial Projects </a> 
+                <ul> 
+                   <li> <a href="http://cityheart.co.in/" class="nodrop1" target="_blank"> City Heart  </a>  </li>
+                </ul>
+               </li>
+               <li> <a href="#">  Buyer's Guide </a> 
+                <ul>
+                   <li> <a href="home-loans.html" class="nodrop1">  Home Loans  </a>  </li>
+                   <li> <a href="rtgs-information.html" class="nodrop1">  RTGS Information </a>  </li>
+                   <li> <a href="nri-section.html" class="nodrop1">  NRI Section </a>  </li>
+                   <li> <a href="real-estate-faqs.html" class="nodrop1">  Real Estate FAQ's </a>  </li>
+                   <li> <a href="testimonials.html" class="nodrop1">  Testimonials  </a>  </li>
+                   <li> <a href="emi-calculator.html" class="nodrop1">  EMI Calculator  </a>  </li>
+                   <li> <a href="loan-period-calculator.html" class="nodrop1">  Loan Period Calculator </a>  </li>
+                   <li> <a href="interest-calculator.html" class="nodrop1">  Interest Calculator </a>  </li>
+                </ul>               
+               </li>
+               <li> <a href="#"> media  </a> 
+               <ul>
+                   <li> <a href="events-at-sbp.html" class="nodrop1">  Events@SBP </a>  </li>
+                   <li> <a href="press-releases.html" class="nodrop1">  Press Releases  </a>  </li>
+                   <li> <a href="news-updates.html" class="nodrop1">  News Updates </a>  </li>
+                   <li> <a href="newsletter.html" class="nodrop1">  Newsletter </a>  </li>
+                </ul>                
+               </li> 
+               <li> <a href="#">  contact us </a> 
+                <ul>
+                 <li> <a href="meet-us.html" class="nodrop1">  Reach Us  </a> </li>
+                 <li> <a href="careers.html" class="nodrop1"> careers </a> </li>
+                 <li> <a href="sales-query-form.html" class="nodrop1">  Sales Query Form </a> </li>
+                 <li> <a href="complaint-form.html" class="nodrop1">  complaint Form </a> </li>
+                </ul>
+               </li>
+
+               
+               
+            </ul>
+        <br style="clear: left" />
+      </div>
+    </div>
+    
+    <div class="clr"> </div>
+   </div>
+  <div class="clr"> </div>
+  </div>
+ <div class="clr"> </div>
+ </div>
+<!--header-->
+ 
+<!--banner-->
+<div id="banner2">
+ <div class="main_container">
+   <h1> Real Estate FAQ's </h1>
+   <ul id="page_s">
+     <li> <a href="index.html"> home </a> </li>
+     <li> <a href="#">  Buyer's Guide </a> </li>
+     <li> <a href="#" class="active_br"> Real Estate FAQ's  </a> </li>
+   </ul>
+ <div class="clr"> </div>
+ </div>
+<div class="clr"> </div>
+</div>
+<!--banner-->
+
+<!--content-->
+<div id="content">
+ <div class="main_container">
+  
+  <div id="content_left">
+   <h1> <span> Real Estate FAQ's </span> </h1>
+   <img src="images/faq.jpg" class="gg_img" alt="SBP Group" />
+   <ul class="tabs"> 
+      <li class="active" rel="tab1"> General  </li>
+      <li rel="tab2"> Corporate </li>
+      <li rel="tab3"> Housing Loan </li>
+      <li rel="tab4"> Tax Benefits </li>
+    </ul> 
+   <div class="tab_container"> 
+
+     <div id="tab1" class="tab_content"> 
+     <h3> What is meant by valuation of property? </h3>
+     <p> 
+     The valuation process evaluates the market value of the property. Demand and supply forces operating in the market, as well as other factors like type of property, quality of construction, its location, the local infrastructure available, maintenance, are all taken into consideration before the market value is decided. 
+</p>
+<h3> How does property valuation help? </h3>
+<p>     Typically, if a real estate agent is asked to judge the value of a piece of property, he would do so based on information of recent sales or purchases of similar properties in that area. Though this may give a fair idea of the property market value, aofficial property valuation would carry more weight. E.g. if you need to use this piece of property as a security against a loan, the bank loan approval process would be faster and smoother if the property is certified by an official valuer. Many banks now insist on valuation certificates before issuing loans using properties as security. The value thus certified may also have chances of getting a higher amount of loan sanctioned. Another benefit of official valuation is that it is a useful negotiating tool when selling the property. Such certification also becomes essential in situations where the correct value of the property has a legal bearing such as, a will statement, insurance papers, business balance sheets etc. 
+</p>
+<h3> What is the meaning of a property's market value? How is its stamp duty decided? </h3>
+<p>
+The price that a property can command in the open market is known as its market value. Stamp duty is based on the market value or the agreement value of the property, whichever is greater. 
+</p>
+<h3> What does the term Leasehold Property mean? </h3>
+<p> 
+    When a piece of property is given or leased to an individual (known as the Lessee for a stipulated period of time, by the owner of the property (known as the essor, the property is referred to as Leasehold Property. A certain amount is fixed by the Lessor to be paid as lease premium and annual lease. The land ownership rights remain with the Lessor. Transfer of property requires prior permission. 
+</p>
+<h3> What does the term Freehold Property mean? </h3>
+<p>
+    When ownership rights for a piece of property are given to the purchaser for a price that property is referred to as Freehold Property. Unlike in the case of leasehold property, no annual lease charges need to be paid and the freehold property can be registered and / or transferred in part(s) 
+</p>
+<h3> Are there any benefits in converting a leasehold property to a freehold one? </h3>
+<p> 
+    There are several benefits: if you convert the property to a freehold property, you become a full-fledged owner by getting the sale deed and having it registered. A freehold property has better marketability and can be sold, mortgaged or kept for standing security, which cannot be done with leasehold property. 
+</p>
+<h3> Are there any income tax considerations while transferring newly acquired property? </h3>
+<p> 
+    If the transfer takes place within three years of purchase, the income tax exemption under Section 54F of the Income Tax Act does not hold good. 
+</p>
+<h3> What constitutes conclusion of sale of a property? </h3>
+<p> 
+    An agreement of sale, coupled with actual possession of the property would be considered as a conclusion of the sale. Usually, the entire amount is paid at the time of handing over possession. 
+</p>
+<h3> What is the difference between carpet area, built-up and super built-up area? </h3>
+<p> 
+    The area of an apartment or building, not inclusive of the area of the walls is known as carpet area. This is the area that is actually used and in which a carpet can be laid. When the area of the walls including the balcony is calculated along with the carpet area, it is known as built-up area. The built-up area along with the area under common spaces like lobby, lifts, stairs, garden and swimming pool is called super built-up area. 
+</p>
+     </div><!-- #tab1 -->
+     <div id="tab2" class="tab_content"> 
+      <h3> Can corporate bodies use residential properties as office space? </h3>
+<p> It is illegal to put residential properties to commercial use. However service-based industries are allowed to operate from residential areas, on the condition that they will vacate the property if any complaint is received from other residential owners. 
+</p>
+<h3> Before purchasing property owned by a company, what aspects should be considered? </h3>
+<p> Before purchasing property from a company, it is necessary to verify with the Registrar of Companies that the property is not mortgaged or is not being used as a security against a loan; otherwise it is not considered a freehold property. 
+</p>
+     </div><!-- #tab2 -->
+     <div id="tab3" class="tab_content"> 
+     <h3> Who is eligible for a home loan? </h3>
+<p> 
+    Any individual above the age of 21 years and below the age of 65 years, who is of Indian origin, Indian Resident and Non-Resident Indian can apply for a home loan. Apart from this, eligibility is calculated based on the factors such as age, income, qualifications, number of dependants, spouse's income, assets, liabilities, stability and continuity of occupation and previous credit history. 
+</p>
+<h3> What happens if there is a change in status from Non-Resident Indian to Resident Indian? </h3>
+<p> 
+    In such a case, the bank will reassess the repayment capacity of the applicant based on resident status and will prepare a revised repayment schedule with a new rate of interest as per the currently applicable rate on Resident Indian loans (for that specific loan product). The revised rate of interest will be applicable only on the outstanding balance. 
+</p>
+<h3> What is the maximum amount of housing loan that can be availed? </h3>
+<p>
+    The usual margin is 85% of the total cost of the property inclusive of the cost of land. This maximum amount is subject to a sealing of Rs 1 crore. 
+</p>
+<h3> Is a guarantor required while applying for a home loan? </h3>
+<p>
+    Yes. The bank requires a guarantor to ensure that the loan is paid back on time. The guarantor will be responsible for the repayment of the loan in case the borrower is unable to do so. 
+</p>
+<h3> How does one repay the loan? </h3>
+<p>
+    The loan can be repaid in monthly installments, which usually commence after a month of the loan disbursement. 
+</p>
+<h3> What is the period in which I will have to repay the loan? </h3>
+<p> 
+    The period is fixed usually to a maximum of 20 years, but in all circumstances before one's retirement age. 
+</p>
+<h3> What is pre-EMI interest? </h3>
+<p> 
+    Pre-EMI interest is the interest paid on the portion of the loan disbursed, before final disbursement. This pre-EMI interest is payable every month from the date of each disbursement up to the date of commencement of the EMI. 
+</p>
+<h3> What is the difference between fixed rate loan and floating rate loan? </h3>
+<p> 
+    A fixed rate loan is the rate of interest that remains constant throughout the extent of the loan period, while a floating interest rate is when the rate of interest varies according to the rates in the market during the tenure of the loan. 
+</p>
+<h3> Are there any extra expenses that will have to be incurred while availing the loan? </h3>
+<p>
+    Yes. These expenses include processing and administrative fees, stamp duty, pre-payment charges & delayed payment charges, legal fees, technical fees and registration fees. 
+</p>
+<h3> How is interest calculated on the home loan? </h3>
+<p> 
+    Banks usually follow the daily or monthly reducing balance method. 
+</p>
+     </div><!-- #tab3 -->
+     <div id="tab4" class="tab_content"> 
+      
+<h3> What are Income tax benefits of taking and repaying a housing loan under EMI Plan? </h3>
+<p>
+    You will be eligible to claim both the interest and principal components of your repayment during the year. Interest can be claimed as a deduction under Section 24. You can claim up to Rs. 150,000 or the actual interest repaid whichever is lower. (You can claim this interest only when you are in possession of the house). Principal can be claimed up to the maximum of Rs.100,000 under Section 80C. This is subject to the maximum level of Rs 100,000 across all 80C investments. You will need to show the statement provided by the lender showing the repayment for the year as well as the interest & principal components of the same. 
+</p>
+<h3> If I buy a house jointly with my wife and take a joint home loan, Can we both claim income tax deduction? </h3>
+<p>
+    Yes, if your wife is workingand has a separate source of income, both of you can claim separate deductions in your income tax returns.The repayment of principal amount of the loan can be claimed as a deduction under section 80C up to a maximum amount of Rs.1 lakh individually by each co-owner. In cases where the house is owned by more than one person and is also self-occupied by each co-owner, each co-owner shall be entitled to the deduction individually on account of interest on borrowed money up to a maximum amount of Rs. 1.5 lakh. If the house is given on rent, there is no restriction on this amount. Both co-owners can claim deductions in the ratio of ownership. 
+</p>
+<h3> My husband and I have jointly taken a home loan. He pays 75 percent of the EMI. What will be our individual tax benefits? </h3>
+<p>    As you have taken a joint home loan, both of you are eligible for tax exemption for your share of the EMI paid. For claiming income tax deduction, the EMI amount is divided into the principal and interest components. The repayment of the principal amount of loan is claimed as a deduction under section 80C of the Income Tax Act up to a maximum amount of Rs. 1lakh individually by each co-owner. The repayment of the interest portion of the EMI is also allowed as a deduction under section 24 of the Act, which is given under the head income from house property. In case you are living in the house for which home loan is taken, both of you shall be entitled to deduction in the ratio (3:1) on account of interest on borrowed money up to a maximum of Rs. 1.5 lakh individually. If the house is given on rent, there is no restriction on this amount and both co-owners can claim deduction in the ratio of ownership- 3:1 in your case. 
+</p>
+<h3> Plan to buy a house by raising loans from friends and relatives. Will I be eligible for tax benefit from all sources? </h3>
+<p> 
+    Interest payment to friends and relatives can be claimed u/s 24 but only against a certificate received from them. In the absence of the certificate, you would not be eligible for the deduction. The recipient of interest income who issues the certificate is liable to pay tax on the interest income that he receives. As far as the principal payments are concerned, they would not qualify for tax benefit as loans only from notified institutions and banks are eligible for such deductions. 
+</p>
+<h3> Can I take advantage of tax benefits from a home loan as well as claim House Rent Allowance (HRA) ? </h3>
+<p>    If you took a home loan and are still living in a rented place, you will be entitled to : </p>
+<ul class="left">
+<li>    Tax benefit on principal repayment under Section 80C
+ </li> <li> Tax benefit on interest payment under Section 24
+ </li> <li>  HRA benefit </li>
+</ul>
+<p>    Of course, you can claim tax benefits on the home loan only if your home is ready to live in during that financial year. Once the construction on your home is complete, the HRA benefit stops. If you took a home loan, got possession of the house, have rented it out and stay in a rented accommodation, you will be entitled to all the three benefits mentioned above. However, in this case, the rent you receive would be considered as your taxable income. 
+</p>
+<h3> I have a home loan in which I am a co-applicant. What is the total income tax exemption that I can avail of ? </h3>
+<p>
+    Yes, you can claim income tax exemption if you are a co applicant in a housing loan as long as you are also the owner or co owner of the property in question. If you are only person repaying the loan, you can claim the entire tax benefit for yourself (provided you are an owner or co-owner). You should enter into a simple agreement with the other borrowers stating that you will be repaying the entire loan. If you are paying part of the EMI, you will get tax benefits in the proportion to your share in the loan. 
+</p>
+<h3> I have two housing loans on two different properties. Can I get tax rebate under sec 80 C of both the loans? </h3>
+<p>
+    Yes, you can get the 80C benefit on both loans. However, the total amount that you will be entitled to will be a total of Rs 100,000 across both the homes. The interest paid on a home loan is not directly deductible from your salary income for either of your flat loans. Income from house property will be calculated for each flat you own. If either of theses calculations shows a loss, this loss can be set off against your income from other heads. As for Section 24 deduction, on your self occupied house you can take advantage of interest payments up to Rs.1,50,000. For the other property, you can claim actual interest repaid, there is no limit for the same. 
+</p>
+<h4> Things you must Know about tax benefits on home loan </h4>
+<p> 
+    Home loan borrowers are entitled to tax benefits under Section 80C and Section 24 of the Income Tax Act. These can be claimed by the property's owner. In the case of co-owners, all are entitled to tax benefits provided they are co-borrowers for the home loan too. The limit applies to each co-owner. A co-owner, who is not a co-borrower, is not entitled to tax benefits. Similarly, a co-borrower, who is not a co-owner, cannot claim benefits. Housing companies usually require all co-owners to be joint borrowers to a home loan. Loan providers specify who can be a joint borrower for a home loan. The tax benefit is shared by each joint owner in proportion to his share in the home loan. It's important to establish the share for each co-borrower to claim tax benefits. The certificate issued by the housing loan company, showing the split between principal and interest for the EMIs paid, is required for claiming tax benefits. 
+</p>      
+      
+     </div><!-- #tab4 --> 
+
+     
+     
+ </div>
+
+
+  </div>
+ 
+  <div id="content_right">
+
+    <a href="meet-us.html" class="request_c2"> request a callback </a>
+
+    <div class="content_right">
+    <h1> <span> our projeccts </span> </h1>
+    <div id="carousel">
+    
+    
+    <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-housing-park/sbp-housing-park.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> Ananda Towers  </h2>
+      <p>
+      SBP Housing Park at Dera Bassi is not just like any other home. At SBP Housing Park every home breathes calmness and joy in plenty...<a href="http://www.sbphousingpark.com/" target="_blank" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>    
+    
+    
+    <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-housing-park/sbp-housing-park.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP Housing Park  </h2>
+      <p>
+      When the Sun’s first rays kiss the top floor of my this project, my sense feel as if I am on my way to touch sky. This 19-storey...<a href="http://www.sbphousingpark.com/" target="_blank" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div> 
+   
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-homes-3/sbp-homes-3.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP Homes 3 </h2>
+      <p>
+      We thought profoundly before conceptualising SBP Homes. The result was awesome meticulously planned, marvellously built and...<a href="sbp-homes-3.html" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>  
+       
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/city-heart/city-heart.jpg" class="slide_img" alt="SBP Group" /> 	
+      <h2> SBP City Heart  </h2>
+      <p>
+       This project is aimed at providing the most happening place in tricity, best place to have fun, roaming around with friends, shopping...<a href="http://cityheart.co.in/" target="_blank" class="more">read more...</a>
+      </p>
+     <div class="clr"> </div>
+     </div>
+   </div>
+   
+   
+   
+   
+   
+   <!--<div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-north-valley/sbp-north-valley.jpg" class="slide_img" alt="SBP Group" /> 	
+      <h2> SBP North Valley  </h2>
+      <p>
+      The aimed is to proudly luxurious living in the lap of greens. This project has given residents a chance to capture the grandeur...<a href="sbp-north-valley.html" class="more">read more...</a>
+      </p>
+     <div class="clr"> </div>
+     </div>
+   </div>
+   
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-south-city/sbp-south-city.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP South City  </h2>
+      <p>
+      While launching this project, we aimed to provide quiet life, away from pollution and availability of open space. These factors...<a href="sbp-south-city.html" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>
+   
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-homes-2/sbp-homes-2.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP Homes 2  </h2>
+      <p>
+      We thought profoundly before conceptualising SBP Homes. The result was awesome meticulously planned, marvellously built...<a href="sbp-homes-2.html" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>
+   
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-homes-1/sbp-homes-1.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP Homes 1  </h2>
+      <p>
+      In 2009, we launched a full- fledged project to meet the standard of modern builders at a affordable price. This project has been...<a href="sbp-homes-1.html" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>
+   
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-noor-city/sbp-noor-city.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP Noor City  </h2>
+      <p>
+      After the success of Noor Villa 1 and 2, we aimed to set new benchmarks for excellence in design, quality and facilities at an...<a href="sbp-noor-city.html" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>
+   
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-noor-villa-2/sbp-noor-villa-2.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP Noor Villa 2 </h2>
+      <p>
+      Aimed at providing affordable housing to be tenants, we launched this project in 2008. Flats in this villa were delivered in 2009...<a href="sbp-noor-villa-2.html" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>
+   
+   <div class="slide">
+     <div class="slide_div">
+      <img src="images/sbp-noor-villa-1/sbp-noor-villa-1.jpg" class="slide_img" alt="SBP Group" /> 
+      <h2> SBP Noor Villa 1 </h2>
+      <p>
+      The project is spread over 1 acre of land with flexible space configurations, a unique mix of function, form and style, inspired...<a href="sbp-noor-villa-1.html" class="more">read more...</a>
+      </p>
+      <div class="clr"> </div>
+     </div>		
+   </div>-->
+
+   			
+   </div>
+    <div id="controls_i">
+    <div id="ui-carousel-next"> </div>
+    <div id="ui-carousel-prev"> </div>
+  </div>
+   </div>
+   
+   <a href="construction-status.html" class="request_c3"> construction status </a>
+    
+    <a href="testimonials.html"> <img src="images/client-speak.jpg" alt="SBP Group" class="testi" /> </a>
+   
+    <div class="content_right">
+     <h1> <span> Virtual Tour </span> </h1>
+     <img src="images/sbp-brochure2.jpg" alt="sbp group" class="brochure_r" />
+     <p> Take a virtual tour with our incredible 360-degree interactive map of our projects. </p>
+     <a href="virtual-tour.html" class="b_download"> Click here to view </a>
+    </div>
+    
+  </div>
+ 
+ <div class="clr"> </div>
+ </div>
+<div class="clr"> </div>
+</div>
+<!--content-->
+
+<!--footer_top-->
+<div id="footer_top">
+ <div class="main_container">
+  <h1> real estate updates  directly to your inbox </h1>
+   <form name="abd" action="subscribe.php" method="post">
+    <input type="text" name="emails" id="emails" placeholder="Enter Your Email" class="subs_i" />
+    <input type="submit" onclick="return checkdata1()" value="Subscribe" class="subs_s" />
+   </form>
+ <div class="clr"> </div>
+ </div>
+<div class="clr"> </div>
+</div>
+<!--footer_top-->
+
+<!--footer-->
+ <div id="footer">
+  <div class="main_container">
+   
+   <div class="footer"> 
+    <h1> about company  </h1>
+     <ul>
+        <li> <a href="company-profile.html">  company profile  </a>  </li>
+        <li> <a href="mission-and-vision.html">  mission &amp; vision </a>  </li>
+        <li> <a href="chairman-message.html">  Chairman Message  </a>  </li>
+        <li> <a href="why-choose-us.html">  why choose us </a>  </li>
+        <li> <a href="events-at-sbp.html">  Events@SBP </a>  </li>
+        <li> <a href="press-releases.html">  Press Releases  </a>  </li>
+        <li> <a href="news-updates.html">  News Updates </a>  </li>
+        <li> <a href="newsletter.html">  Newsletter </a>  </li>
+        <li> <a href="meet-us.html">  Meet Us </a> </li>
+        <li> <a href="careers.html"> careers </a> </li>
+        <li> <a href="sales-query-form.html">  Sales Query Form </a> </li>
+     </ul>
+   </div>
+   
+   <div class="footer"> 
+    <h1> Residential Projects </h1>
+    <h2> Delivered Projects  </h2>
+     <ul>
+       <li> <a href="sbp-noor-villa-1.html"> SBP Noor Villa 1 </a>  </li>
+       <li> <a href="sbp-noor-villa-2.html"> SBP Noor Villa 2 </a>  </li>
+       <li> <a href="sbp-noor-city.html"> SBP Noor City </a>  </li>
+       <li> <a href="sbp-homes-1.html"> SBP Homes 1 </a>  </li>
+       <li> <a href="sbp-homes-2.html"> SBP Homes 2 </a>  </li>
+       <li> <a href="sbp-south-city.html"> SBP South City </a>  </li>
+       <li> <a href="sbp-north-valley.html"> SBP North Valley </a>  </li>
+    </ul>
+    <div class="empty_f"> </div>
+    <h2> Ongoing Projects </h2>
+     <ul>
+       <li> <a href="http://www.sbphousingpark.com/" target="_blank"> Ananda Towers  </a>  </li>
+       <li> <a href="http://www.sbphousingpark.com/" target="_blank"> SBP Housing Park  </a>  </li>
+       <li> <a href="sbp-homes-3.html"> 	SBP Homes 3  </a>  </li>
+     </ul>
+   </div>
+   
+   <div class="footer"> 
+    <h1> Residential Projects </h1>
+    <h2> Upcoming Projects   </h2>
+     <ul>
+       <li> <a href="world-1-lifestyle.html">	World 1 Lifestyle </a> </li>
+       <li> <a href="park-land.html">	Park Land  </a> </li>
+       <li> <a href="nano-housing.html">	Nano Housing  </a> </li>
+       <li> <a href="chandigarh-logistic-park.html">	Chandigarh Logistic Park </a> </li>
+       <li> <a href="the-north-wild-resort.html">	The North Wild Resort </a> </li>
+     </ul>
+     <h1> Commercial Projects </h1>
+      <ul>
+        <li> <a href="http://cityheart.co.in/" target="_blank"> City Heart  </a>  </li>
+      </ul>
+   </div>
+   
+   <div class="footer"> 
+    <h1> Contact Details </h1>
+     <ul id="address_f">
+        <li> SBP Group <br />(Singla Builders & Promoters Ltd.) </li>
+        <li> SCO 146-148, 1st & 2nd Floor, </li>
+        <li> Above HDFC Bank, Sector 43-B, </li>
+        <li> Chandigarh 160017, U.T, India </li>
+        <li> Phone : + 91 - 0172 - 4972200 </li>
+        <li> Fax : +91 - 0172 - 4972203 </li>
+        <li> Email: <span> info@sbpgroup.in </span> </li>
+      </ul>
+      <div id="footer_social">
+        <a href="https://www.facebook.com/sbpgroup" target="_blank" class="facebook_f"> </a> 
+        <a href="https://twitter.com/sbp_group" target="_blank" class="twitter_f"> </a>
+        <a href="https://plus.google.com/+SbpgroupIn" target="_blank" class="google_f"> </a>
+        <a href="https://www.youtube.com/user/sbpgroupin" target="_blank" class="youtube_f"> </a>
+        <a href="" target="_blank" class="blog_f"> </a>
+      </div>
+   </div>
+   
+  <div class="clr"> </div>
+  </div>
+ <div class="clr"> </div>
+ </div>
+<!--footer-->
+
+<!--footer_bottom-->
+ <div id="footer_bottom">
+  <div class="main_container">
+   <h1> &copy; 2015 <a href="index.html"><strong> </strong>  </a>. All Rights Reserved. <a href="" class="designed" target="_blank"> Designed By :  Beesolver Technology </a> </h1>
+  <div class="clr"> </div>
+  </div>
+ <div class="clr"> </div>
+ </div>
+<!--footer_bottom-->
+
+<!--slider-->
+<script type='text/javascript' src='js/script.js'></script>
+<script type='text/javascript' src='js/camera.min.js'></script>
+<!--slider-->
+
+</body>
+</html>
